@@ -1,5 +1,5 @@
 --------------
-title: Land of Confusion
+title: "Land of Confusion"
 date: 2021-07-14
 --------------
 
