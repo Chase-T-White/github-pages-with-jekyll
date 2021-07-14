@@ -1,3 +1,8 @@
+--------------
+title: Land of Confusion
+date: 2021-07-14
+--------------
+
 I must have dreamed a thousand dreams
 Been haunted by a million screams
 But I can hear their marching feet
